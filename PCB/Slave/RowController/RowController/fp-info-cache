@@ -1,0 +1,2822 @@
+626631520202581
+LCD
+KSA_Tactile_SPST
+KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SWITCH SMD KSA SW
+0
+5
+5
+LCD
+KSA_Tactile_SPST2
+KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SWITCH SMD KSA SW
+0
+5
+5
+LCD
+myKSA_Tactile_SPST
+KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SWITCH SMD KSA SW
+0
+5
+5
+LCD
+mySW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+LCD
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+LCD
+WC1602A
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+13
+9
+Package_DirectFET
+DirectFET_L8
+DirectFET L8 https://www.infineon.com/dgdl/Infineon-AN-1035-AN-v29_00-EN.pdf?fileId=5546d462533600a40153559159020f76
+DirectFET L8
+0
+15
+3
+Package_DirectFET
+DirectFET_ME
+IRF DirectFET_ME http://www.irf.com/technical-info/appnotes/an-1035.pdf
+DirectFET ME Mosfet Infenion
+0
+10
+3
+Package_DirectFET
+DirectFET_MN
+DirectFET MN https://www.infineon.com/dgdl/irf6646pbf.pdf?fileId=5546d462533600a4015355ec5f071a55
+DirectFET MN Mosfet Infenion
+0
+7
+3
+Package_DirectFET
+DirectFET_MP
+DirectFET MP https://www.infineon.com/dgdl/irf6633pbf.pdf?fileId=5546d462533600a4015355e8dfe91a3b
+DirectFET MP Mosfet Infenion
+0
+7
+3
+Package_DirectFET
+DirectFET_MT
+DirectFET MT https://www.infineon.com/dgdl/irf6613pbf.pdf?fileId=5546d462533600a4015355e82b9b1a0d
+DirectFET MT Mosfet Infenion
+0
+7
+3
+Package_DirectFET
+DirectFET_MX
+DirectFET MX https://www.infineon.com/dgdl/irf8302mpbf.pdf?fileId=5546d462533600a40153560d16e41d5b
+DirectFET MX Infenion Mosfet
+0
+7
+3
+Package_DirectFET
+DirectFET_MZ
+DirectFET MZ https://www.infineon.com/dgdl/irf6668pbf.pdf?fileId=5546d462533600a4015355ec96b91a64
+DirectFET MZ Infenion Mosfet
+0
+7
+3
+Package_DirectFET
+DirectFET_S1
+DirectFET S1 https://www.infineon.com/dgdl/irf6810spbf.pdf?fileId=5546d462533600a4015355f0ab331ab4
+DirectFET S1 Infenion Mosfet
+0
+6
+3
+Package_DirectFET
+DirectFET_S2
+DirectFET S2 https://www.infineon.com/dgdl/Infineon-AN-1035-AN-v29_00-EN.pdf?fileId=5546d462533600a40153559159020f76
+DirectFET S2 Infenion Mosfet
+0
+7
+3
+Package_DirectFET
+DirectFET_SH
+IRF DirectFET_SH https://www.infineon.com/dgdl/irf6655pbf.pdf?fileId=5546d462533600a4015355ec76961a5b
+DirectFET SH Mosfet Infenion
+0
+6
+3
+Package_DirectFET
+DirectFET_SJ
+DirectFET SJ https://www.infineon.com/dgdl/irf6810spbf.pdf?fileId=5546d462533600a4015355f0ab331ab4
+DirectFET SJ Infenion Mosfet
+0
+7
+3
+Package_DirectFET
+DirectFET_SQ
+DirectFET SQ https://www.infineon.com/dgdl/irf8327spbf.pdf?fileId=5546d462533600a40153560d40c41d65
+DirectFET SQ Infenion Mosfet
+0
+6
+3
+Package_DirectFET
+DirectFET_ST
+DirectFET ST https://www.infineon.com/dgdl/irf6722spbf.pdf?fileId=5546d462533600a4015355ed44531a90
+DirectFET ST Infenion Mosfet
+0
+7
+3
+Rotary-Encoders
+ALPS_STEC12E08
+
+rotary, encoder, ALPS
+0
+7
+6
+Rotary-Encoders
+BI_EN11-HSM1AF15
+
+rotary, encoder, BI-Technologies
+0
+7
+6
+Rotary-Encoders
+BI_EN12-HS22AF30
+
+rotary, encoder, BI-Technologies
+0
+7
+6
+TerminalBlock
+TerminalBlock_Altech_AK300-2_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
+0
+2
+2
+TerminalBlock
+TerminalBlock_Altech_AK300-3_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
+0
+3
+3
+TerminalBlock
+TerminalBlock_Altech_AK300-4_P5.00mm
+Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
+Altech AK300 terminal block pitch 5.0mm
+0
+4
+4
+TerminalBlock
+TerminalBlock_bornier-2_P5.08mm
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+TerminalBlock
+TerminalBlock_bornier-3_P5.08mm
+simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
+terminal block bornier3
+0
+3
+3
+TerminalBlock
+TerminalBlock_bornier-4_P5.08mm
+simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4
+terminal block bornier4
+0
+4
+4
+TerminalBlock
+TerminalBlock_bornier-5_P5.08mm
+simple 5-pin terminal block, pitch 5.08mm, revamped version of bornier5
+terminal block bornier5
+0
+5
+5
+TerminalBlock
+TerminalBlock_bornier-6_P5.08mm
+simple 6pin terminal block, pitch 5.08mm, revamped version of bornier6
+terminal block bornier6
+0
+6
+6
+TerminalBlock
+TerminalBlock_Wuerth_691311400102_P7.62mm
+https://katalog.we-online.de/em/datasheet/6913114001xx.pdf
+Wuerth WR-TBL Series 3114 terminal block pitch 7.62mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed
+single screw terminal block Metz Connect 360271, block size 9x7.3mm^2, drill diamater 1.5mm, 1 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360271 size 9x7.3mm^2 drill 1.5mm pad 3mm
+0
+1
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360272_1x01_Horizontal_ScrewM2.6
+single screw terminal block Metz Connect 360272, block size 4x4mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 131, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360272 size 4x4mm^2 drill 1.5mm pad 3mm
+0
+2
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360273_1x01_Horizontal_ScrewM2.6_WireProtection
+single screw terminal block Metz Connect 360273, block size 5x4mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 131, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360273 size 5x4mm^2 drill 1.5mm pad 3mm
+0
+2
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360291_1x01_Horizontal_ScrewM3.0_Boxed
+single screw terminal block Metz Connect 360291, block size 9x7.3mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360291 size 9x7.3mm^2 drill 1.5mm pad 3mm
+0
+2
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360322_1x01_Horizontal_ScrewM3.0_WireProtection
+single screw terminal block Metz Connect 360322, block size 6x4mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360322 size 6x4mm^2 drill 1.5mm pad 3mm
+0
+2
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360381_1x01_Horizontal_ScrewM3.0
+single screw terminal block Metz Connect 360381, block size 5x5mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 133, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360381 size 5x5mm^2 drill 1.5mm pad 3mm
+0
+2
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360410_1x01_Horizontal_ScrewM3.0
+single screw terminal block Metz Connect 360410, block size 5x5mm^2, drill diamater 1.5mm, 2 pads, pad diameter 3mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 132, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360410 size 5x5mm^2 drill 1.5mm pad 3mm
+0
+2
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_360425_1x01_Horizontal_ScrewM4.0_Boxed
+single screw terminal block Metz Connect 360425, block size 9x9mm^2, drill diamater 1.6mm, 4 pads, pad diameter 3.2mm, see http://www.metz-connect.com/de/system/files/METZ_CONNECT_U_Contact_Katalog_Anschlusssysteme_fuer_Leiterplatten_DE_31_07_2017_OFF_024803.pdf?language=en page 134, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT single screw terminal block Metz Connect 360425 size 9x9mm^2 drill 1.6mm pad 3.2mm
+0
+4
+1
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type011_RT05502HBWC_1x02_P5.00mm_Horizontal
+terminal block Metz Connect Type011_RT05502HBWC, 2 pins, pitch 5mm, size 10x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type011_RT05502HBWC pitch 5mm size 10x10.5mm^2 drill 1.4mm pad 2.8mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type011_RT05503HBWC_1x03_P5.00mm_Horizontal
+terminal block Metz Connect Type011_RT05503HBWC, 3 pins, pitch 5mm, size 15x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type011_RT05503HBWC pitch 5mm size 15x10.5mm^2 drill 1.4mm pad 2.8mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type011_RT05504HBWC_1x04_P5.00mm_Horizontal
+terminal block Metz Connect Type011_RT05504HBWC, 4 pins, pitch 5mm, size 20x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type011_RT05504HBWC pitch 5mm size 20x10.5mm^2 drill 1.4mm pad 2.8mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type011_RT05505HBWC_1x05_P5.00mm_Horizontal
+terminal block Metz Connect Type011_RT05505HBWC, 5 pins, pitch 5mm, size 25x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type011_RT05505HBWC pitch 5mm size 25x10.5mm^2 drill 1.4mm pad 2.8mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type011_RT05506HBWC_1x06_P5.00mm_Horizontal
+terminal block Metz Connect Type011_RT05506HBWC, 6 pins, pitch 5mm, size 30x10.5mm^2, drill diamater 1.4mm, pad diameter 2.8mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310111_RT055xxHBLC_OFF-022717S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type011_RT05506HBWC pitch 5mm size 30x10.5mm^2 drill 1.4mm pad 2.8mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type055_RT01502HDWU_1x02_P5.00mm_Horizontal
+terminal block Metz Connect Type055_RT01502HDWU, 2 pins, pitch 5mm, size 10x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310551_RT015xxHDWU_OFF-022723S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type055_RT01502HDWU pitch 5mm size 10x8mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type055_RT01503HDWU_1x03_P5.00mm_Horizontal
+terminal block Metz Connect Type055_RT01503HDWU, 3 pins, pitch 5mm, size 15x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310551_RT015xxHDWU_OFF-022723S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type055_RT01503HDWU pitch 5mm size 15x8mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type055_RT01504HDWU_1x04_P5.00mm_Horizontal
+terminal block Metz Connect Type055_RT01504HDWU, 4 pins, pitch 5mm, size 20x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310551_RT015xxHDWU_OFF-022723S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type055_RT01504HDWU pitch 5mm size 20x8mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type059_RT06302HBWC_1x02_P3.50mm_Horizontal
+terminal block Metz Connect Type059_RT06302HBWC, 2 pins, pitch 3.5mm, size 7x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type059_RT06302HBWC pitch 3.5mm size 7x6.5mm^2 drill 1.2mm pad 2.3mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type059_RT06303HBWC_1x03_P3.50mm_Horizontal
+terminal block Metz Connect Type059_RT06303HBWC, 3 pins, pitch 3.5mm, size 10.5x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type059_RT06303HBWC pitch 3.5mm size 10.5x6.5mm^2 drill 1.2mm pad 2.3mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type059_RT06304HBWC_1x04_P3.50mm_Horizontal
+terminal block Metz Connect Type059_RT06304HBWC, 4 pins, pitch 3.5mm, size 14x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type059_RT06304HBWC pitch 3.5mm size 14x6.5mm^2 drill 1.2mm pad 2.3mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type059_RT06305HBWC_1x05_P3.50mm_Horizontal
+terminal block Metz Connect Type059_RT06305HBWC, 5 pins, pitch 3.5mm, size 17.5x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type059_RT06305HBWC pitch 3.5mm size 17.5x6.5mm^2 drill 1.2mm pad 2.3mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type059_RT06306HBWC_1x06_P3.50mm_Horizontal
+terminal block Metz Connect Type059_RT06306HBWC, 6 pins, pitch 3.5mm, size 21x6.5mm^2, drill diamater 1.2mm, pad diameter 2.3mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310591_RT063xxHBWC_OFF-022684T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type059_RT06306HBWC pitch 3.5mm size 21x6.5mm^2 drill 1.2mm pad 2.3mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type067_RT01902HDWC_1x02_P10.00mm_Horizontal
+terminal block Metz Connect Type067_RT01902HDWC, 2 pins, pitch 10mm, size 15.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type067_RT01902HDWC pitch 10mm size 15.8x8.2mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type067_RT01903HDWC_1x03_P10.00mm_Horizontal
+terminal block Metz Connect Type067_RT01903HDWC, 3 pins, pitch 10mm, size 25.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type067_RT01903HDWC pitch 10mm size 25.8x8.2mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type067_RT01904HDWC_1x04_P10.00mm_Horizontal
+terminal block Metz Connect Type067_RT01904HDWC, 4 pins, pitch 10mm, size 35.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type067_RT01904HDWC pitch 10mm size 35.8x8.2mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type067_RT01905HDWC_1x05_P10.00mm_Horizontal
+terminal block Metz Connect Type067_RT01905HDWC, 5 pins, pitch 10mm, size 45.8x8.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310671_RT019xxHDWC_OFF-023605N.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type067_RT01905HDWC pitch 10mm size 45.8x8.2mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal
+terminal block Metz Connect Type073_RT02602HBLU, 2 pins, pitch 5.08mm, size 10.2x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310731_RT026xxHBLU_OFF-022792U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type073_RT02602HBLU pitch 5.08mm size 10.2x11mm^2 drill 1.4mm pad 2.6mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type073_RT02603HBLU_1x03_P5.08mm_Horizontal
+terminal block Metz Connect Type073_RT02603HBLU, 3 pins, pitch 5.08mm, size 15.2x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310731_RT026xxHBLU_OFF-022792U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type073_RT02603HBLU pitch 5.08mm size 15.2x11mm^2 drill 1.4mm pad 2.6mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type086_RT03402HBLC_1x02_P3.81mm_Horizontal
+terminal block Metz Connect Type086_RT03402HBLC, 2 pins, pitch 3.81mm, size 7.51x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03402HBLC pitch 3.81mm size 7.51x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type086_RT03403HBLC_1x03_P3.81mm_Horizontal
+terminal block Metz Connect Type086_RT03403HBLC, 3 pins, pitch 3.81mm, size 11.3x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03403HBLC pitch 3.81mm size 11.3x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type086_RT03404HBLC_1x04_P3.81mm_Horizontal
+terminal block Metz Connect Type086_RT03404HBLC, 4 pins, pitch 3.81mm, size 15.1x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03404HBLC pitch 3.81mm size 15.1x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type086_RT03405HBLC_1x05_P3.81mm_Horizontal
+terminal block Metz Connect Type086_RT03405HBLC, 5 pins, pitch 3.81mm, size 18.9x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03405HBLC pitch 3.81mm size 18.9x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type086_RT03406HBLC_1x06_P3.81mm_Horizontal
+terminal block Metz Connect Type086_RT03406HBLC, 6 pins, pitch 3.81mm, size 22.8x7.3mm^2, drill diamater 0.7mm, pad diameter 1.4mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_310861_RT034xxHBLC_OFF-026114K.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type086_RT03406HBLC pitch 3.81mm size 22.8x7.3mm^2 drill 0.7mm pad 1.4mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type094_RT03502HBLU_1x02_P5.00mm_Horizontal
+terminal block Metz Connect Type094_RT03502HBLU, 2 pins, pitch 5mm, size 10x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type094_RT03502HBLU pitch 5mm size 10x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type094_RT03503HBLU_1x03_P5.00mm_Horizontal
+terminal block Metz Connect Type094_RT03503HBLU, 3 pins, pitch 5mm, size 15x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type094_RT03503HBLU pitch 5mm size 15x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type094_RT03504HBLU_1x04_P5.00mm_Horizontal
+terminal block Metz Connect Type094_RT03504HBLU, 4 pins, pitch 5mm, size 20x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type094_RT03504HBLU pitch 5mm size 20x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type094_RT03505HBLU_1x05_P5.00mm_Horizontal
+terminal block Metz Connect Type094_RT03505HBLU, 5 pins, pitch 5mm, size 25x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type094_RT03505HBLU pitch 5mm size 25x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type094_RT03506HBLU_1x06_P5.00mm_Horizontal
+terminal block Metz Connect Type094_RT03506HBLU, 6 pins, pitch 5mm, size 30x8.3mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/ru/system/files/productfiles/Data_sheet_310941_RT035xxHBLU_OFF-022742T.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type094_RT03506HBLU pitch 5mm size 30x8.3mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type101_RT01602HBWC_1x02_P5.08mm_Horizontal
+terminal block Metz Connect Type101_RT01602HBWC, 2 pins, pitch 5.08mm, size 10.2x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type101_RT01602HBWC pitch 5.08mm size 10.2x8mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type101_RT01603HBWC_1x03_P5.08mm_Horizontal
+terminal block Metz Connect Type101_RT01603HBWC, 3 pins, pitch 5.08mm, size 15.2x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type101_RT01603HBWC pitch 5.08mm size 15.2x8mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type101_RT01604HBWC_1x04_P5.08mm_Horizontal
+terminal block Metz Connect Type101_RT01604HBWC, 4 pins, pitch 5.08mm, size 20.3x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type101_RT01604HBWC pitch 5.08mm size 20.3x8mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type101_RT01605HBWC_1x05_P5.08mm_Horizontal
+terminal block Metz Connect Type101_RT01605HBWC, 5 pins, pitch 5.08mm, size 25.4x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type101_RT01605HBWC pitch 5.08mm size 25.4x8mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type101_RT01606HBWC_1x06_P5.08mm_Horizontal
+terminal block Metz Connect Type101_RT01606HBWC, 6 pins, pitch 5.08mm, size 30.5x8mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311011_RT016xxHBWC_OFF-022771S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type101_RT01606HBWC pitch 5.08mm size 30.5x8mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type171_RT13702HBWC_1x02_P7.50mm_Horizontal
+terminal block Metz Connect Type171_RT13702HBWC, 2 pins, pitch 7.5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type171_RT13702HBWC pitch 7.5mm size 15x9mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type171_RT13703HBWC_1x03_P7.50mm_Horizontal
+terminal block Metz Connect Type171_RT13703HBWC, 3 pins, pitch 7.5mm, size 22.5x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type171_RT13703HBWC pitch 7.5mm size 22.5x9mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type171_RT13704HBWC_1x04_P7.50mm_Horizontal
+terminal block Metz Connect Type171_RT13704HBWC, 4 pins, pitch 7.5mm, size 30x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type171_RT13704HBWC pitch 7.5mm size 30x9mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type171_RT13705HBWC_1x05_P7.50mm_Horizontal
+terminal block Metz Connect Type171_RT13705HBWC, 5 pins, pitch 7.5mm, size 37.5x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type171_RT13705HBWC pitch 7.5mm size 37.5x9mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type171_RT13706HBWC_1x06_P7.50mm_Horizontal
+terminal block Metz Connect Type171_RT13706HBWC, 6 pins, pitch 7.5mm, size 45x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311711_RT137xxHBWC_OFF-022811Q.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type171_RT13706HBWC pitch 7.5mm size 45x9mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type175_RT02702HBLC_1x02_P7.50mm_Horizontal
+terminal block Metz Connect Type175_RT02702HBLC, 2 pins, pitch 7.5mm, size 15x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type175_RT02702HBLC pitch 7.5mm size 15x11mm^2 drill 1.4mm pad 2.6mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type175_RT02703HBLC_1x03_P7.50mm_Horizontal
+terminal block Metz Connect Type175_RT02703HBLC, 3 pins, pitch 7.5mm, size 22.5x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type175_RT02703HBLC pitch 7.5mm size 22.5x11mm^2 drill 1.4mm pad 2.6mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type175_RT02704HBLC_1x04_P7.50mm_Horizontal
+terminal block Metz Connect Type175_RT02704HBLC, 4 pins, pitch 7.5mm, size 30x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type175_RT02704HBLC pitch 7.5mm size 30x11mm^2 drill 1.4mm pad 2.6mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type175_RT02705HBLC_1x05_P7.50mm_Horizontal
+terminal block Metz Connect Type175_RT02705HBLC, 5 pins, pitch 7.5mm, size 37.5x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type175_RT02705HBLC pitch 7.5mm size 37.5x11mm^2 drill 1.4mm pad 2.6mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type175_RT02706HBLC_1x06_P7.50mm_Horizontal
+terminal block Metz Connect Type175_RT02706HBLC, 6 pins, pitch 7.5mm, size 45x11mm^2, drill diamater 1.4mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_311751_RT027xxHBLC_OFF-022814U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type175_RT02706HBLC pitch 7.5mm size 45x11mm^2 drill 1.4mm pad 2.6mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type205_RT04502UBLC_1x02_P5.00mm_45Degree
+terminal block Metz Connect Type205_RT04502UBLC, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 10x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type205_RT04502UBLC 45Degree pitch 5mm size 10x12.5mm^2 drill 1.4mm pad 2.7mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type205_RT04503UBLC_1x03_P5.00mm_45Degree
+terminal block Metz Connect Type205_RT04503UBLC, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 15x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type205_RT04503UBLC 45Degree pitch 5mm size 15x12.5mm^2 drill 1.4mm pad 2.7mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type205_RT04504UBLC_1x04_P5.00mm_45Degree
+terminal block Metz Connect Type205_RT04504UBLC, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 20x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type205_RT04504UBLC 45Degree pitch 5mm size 20x12.5mm^2 drill 1.4mm pad 2.7mm
+0
+4
+4
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type205_RT04505UBLC_1x05_P5.00mm_45Degree
+terminal block Metz Connect Type205_RT04505UBLC, 45Degree (cable under 45degree), 5 pins, pitch 5mm, size 25x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type205_RT04505UBLC 45Degree pitch 5mm size 25x12.5mm^2 drill 1.4mm pad 2.7mm
+0
+5
+5
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type205_RT04506UBLC_1x06_P5.00mm_45Degree
+terminal block Metz Connect Type205_RT04506UBLC, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 30x12.5mm^2, drill diamater 1.4mm, pad diameter 2.7mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_312051_RT045xxUBLC_OFF-022759T.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type205_RT04506UBLC 45Degree pitch 5mm size 30x12.5mm^2 drill 1.4mm pad 2.7mm
+0
+6
+6
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type701_RT11L02HGLU_1x02_P6.35mm_Horizontal
+terminal block Metz Connect Type701_RT11L02HGLU, 2 pins, pitch 6.35mm, size 12.7x12.5mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317011_RT11LxxHGLU_OFF-022798U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type701_RT11L02HGLU pitch 6.35mm size 12.7x12.5mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type701_RT11L03HGLU_1x03_P6.35mm_Horizontal
+terminal block Metz Connect Type701_RT11L03HGLU, 3 pins, pitch 6.35mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317011_RT11LxxHGLU_OFF-022798U.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type701_RT11L03HGLU pitch 6.35mm size 19x12.5mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type703_RT10N02HGLU_1x02_P9.52mm_Horizontal
+terminal block Metz Connect Type703_RT10N02HGLU, 2 pins, pitch 9.52mm, size 19x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type703_RT10N02HGLU pitch 9.52mm size 19x12.5mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_MetzConnect
+TerminalBlock_MetzConnect_Type703_RT10N03HGLU_1x03_P9.52mm_Horizontal
+terminal block Metz Connect Type703_RT10N03HGLU, 3 pins, pitch 9.52mm, size 28.6x12.5mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.metz-connect.com/de/system/files/productfiles/Datenblatt_317031_RT10NxxHGLU_OFF-022897S.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_MetzConnect
+THT terminal block Metz Connect Type703_RT10N03HGLU pitch 9.52mm size 28.6x12.5mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_Philmore
+TerminalBlock_Philmore_TB132_1x02_P5.00mm_Horizontal
+Terminal Block Philmore , 2 pins, pitch 5mm, size 10x10.2mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Philmore
+THT Terminal Block Philmore  pitch 5mm size 10x10.2mm^2 drill 1.2mm pad 2.4mm
+0
+2
+2
+TerminalBlock_Philmore
+TerminalBlock_Philmore_TB133_1x03_P5.00mm_Horizontal
+Terminal Block Philmore , 3 pins, pitch 5mm, size 15x10.2mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see http://www.philmore-datak.com/mc/Page%20197.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Philmore
+THT Terminal Block Philmore  pitch 5mm size 15x10.2mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5mm, size 10x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2 pitch 5mm size 10x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-3-5.08, 3 pins, pitch 5.08mm, size 15.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-3-5.08 pitch 5.08mm size 15.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-3, 3 pins, pitch 5mm, size 15x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-3 pitch 5mm size 15x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-4-5.08, 4 pins, pitch 5.08mm, size 20.3x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-4-5.08 pitch 5.08mm size 20.3x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-4, 4 pins, pitch 5mm, size 20x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-4 pitch 5mm size 20x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-5-5.08, 5 pins, pitch 5.08mm, size 25.4x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-5-5.08 pitch 5.08mm size 25.4x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-5_1x05_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-5, 5 pins, pitch 5mm, size 25x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-5 pitch 5mm size 25x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-6-5.08, 6 pins, pitch 5.08mm, size 30.5x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-6-5.08 pitch 5.08mm size 30.5x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-6_1x06_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-6, 6 pins, pitch 5mm, size 30x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-6 pitch 5mm size 30x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-7-5.08_1x07_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-7-5.08, 7 pins, pitch 5.08mm, size 35.6x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-7-5.08 pitch 5.08mm size 35.6x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-7_1x07_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-7, 7 pins, pitch 5mm, size 35x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-7 pitch 5mm size 35x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-8-5.08, 8 pins, pitch 5.08mm, size 40.6x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-8-5.08 pitch 5.08mm size 40.6x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-8, 8 pins, pitch 5mm, size 40x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-8 pitch 5mm size 40x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-9-5.08_1x09_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-9-5.08, 9 pins, pitch 5.08mm, size 45.7x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-9-5.08 pitch 5.08mm size 45.7x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-9_1x09_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-9, 9 pins, pitch 5mm, size 45x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-9 pitch 5mm size 45x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-10-5.08, 10 pins, pitch 5.08mm, size 50.8x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-10-5.08 pitch 5.08mm size 50.8x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-10_1x10_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-10, 10 pins, pitch 5mm, size 50x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-10 pitch 5mm size 50x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-11-5.08_1x11_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-11-5.08, 11 pins, pitch 5.08mm, size 55.9x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-11-5.08 pitch 5.08mm size 55.9x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-11, 11 pins, pitch 5mm, size 55x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-11 pitch 5mm size 55x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-12-5.08_1x12_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-12-5.08, 12 pins, pitch 5.08mm, size 61x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-12-5.08 pitch 5.08mm size 61x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-12_1x12_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-12, 12 pins, pitch 5mm, size 60x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-12 pitch 5mm size 60x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-13-5.08_1x13_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-13-5.08, 13 pins, pitch 5.08mm, size 66x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-13-5.08 pitch 5.08mm size 66x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-13_1x13_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-13, 13 pins, pitch 5mm, size 65x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-13 pitch 5mm size 65x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-14-5.08_1x14_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-14-5.08, 14 pins, pitch 5.08mm, size 71.1x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-14-5.08 pitch 5.08mm size 71.1x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-14_1x14_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-14, 14 pins, pitch 5mm, size 70x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-14 pitch 5mm size 70x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-15-5.08, 15 pins, pitch 5.08mm, size 76.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-15-5.08 pitch 5.08mm size 76.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-15_1x15_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-15, 15 pins, pitch 5mm, size 75x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-15 pitch 5mm size 75x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-16-5.08_1x16_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-16-5.08, 16 pins, pitch 5.08mm, size 81.3x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-16-5.08 pitch 5.08mm size 81.3x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-1,5-16_1x16_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-16, 16 pins, pitch 5mm, size 80x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-16 pitch 5mm size 80x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-2-5.08, 2 pins, pitch 5.08mm, size 10.2x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-2-5.08 pitch 5.08mm size 10.2x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-3-5.08, 3 pins, pitch 5.08mm, size 15.2x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-3-5.08 pitch 5.08mm size 15.2x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-4-5.08, 4 pins, pitch 5.08mm, size 20.3x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-4-5.08 pitch 5.08mm size 20.3x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-5-5.08, 5 pins, pitch 5.08mm, size 25.4x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-5-5.08 pitch 5.08mm size 25.4x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-6-5.08, 6 pins, pitch 5.08mm, size 30.5x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-6-5.08 pitch 5.08mm size 30.5x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-7-5.08_1x07_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-7-5.08, 7 pins, pitch 5.08mm, size 35.6x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-7-5.08 pitch 5.08mm size 35.6x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-8-5.08_1x08_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-8-5.08, 8 pins, pitch 5.08mm, size 40.6x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-8-5.08 pitch 5.08mm size 40.6x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-9-5.08_1x09_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-9-5.08, 9 pins, pitch 5.08mm, size 45.7x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-9-5.08 pitch 5.08mm size 45.7x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-10-5.08_1x10_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-10-5.08, 10 pins, pitch 5.08mm, size 50.8x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-10-5.08 pitch 5.08mm size 50.8x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-11-5.08_1x11_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-11-5.08, 11 pins, pitch 5.08mm, size 55.9x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-11-5.08 pitch 5.08mm size 55.9x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-12-5.08_1x12_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-12-5.08, 12 pins, pitch 5.08mm, size 61x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-12-5.08 pitch 5.08mm size 61x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-13-5.08_1x13_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-13-5.08, 13 pins, pitch 5.08mm, size 66x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-13-5.08 pitch 5.08mm size 66x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-14-5.08_1x14_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-14-5.08, 14 pins, pitch 5.08mm, size 71.1x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-14-5.08 pitch 5.08mm size 71.1x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-15-5.08_1x15_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-15-5.08, 15 pins, pitch 5.08mm, size 76.2x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-15-5.08 pitch 5.08mm size 76.2x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MKDS-3-16-5.08_1x16_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-16-5.08, 16 pins, pitch 5.08mm, size 81.3x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-16-5.08 pitch 5.08mm size 81.3x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-2-2.54, 2 pins, pitch 2.54mm, size 5.54x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-2-2.54 pitch 2.54mm size 5.54x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+2
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-3-2.54, 3 pins, pitch 2.54mm, size 8.08x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-3-2.54 pitch 2.54mm size 8.08x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-4-2.54, 4 pins, pitch 2.54mm, size 10.6x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-4-2.54 pitch 2.54mm size 10.6x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+4
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-5-2.54_1x05_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-5-2.54, 5 pins, pitch 2.54mm, size 13.2x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-5-2.54 pitch 2.54mm size 13.2x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+5
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-6-2.54_1x06_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-6-2.54, 6 pins, pitch 2.54mm, size 15.7x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-6-2.54 pitch 2.54mm size 15.7x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+6
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-7-2.54_1x07_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-7-2.54, 7 pins, pitch 2.54mm, size 18.2x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-7-2.54 pitch 2.54mm size 18.2x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+7
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-8-2.54_1x08_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-8-2.54, 8 pins, pitch 2.54mm, size 20.8x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-8-2.54 pitch 2.54mm size 20.8x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+8
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-9-2.54_1x09_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-9-2.54, 9 pins, pitch 2.54mm, size 23.3x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-9-2.54 pitch 2.54mm size 23.3x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+9
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-10-2.54_1x10_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-10-2.54, 10 pins, pitch 2.54mm, size 25.9x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-10-2.54 pitch 2.54mm size 25.9x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+10
+10
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-11-2.54_1x11_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-11-2.54, 11 pins, pitch 2.54mm, size 28.4x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-11-2.54 pitch 2.54mm size 28.4x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+11
+11
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_MPT-0,5-12-2.54_1x12_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-12-2.54, 12 pins, pitch 2.54mm, size 30.9x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-12-2.54 pitch 2.54mm size 30.9x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+12
+12
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-2-3.5-H, 2 pins, pitch 3.5mm, size 7x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-2-3.5-H pitch 3.5mm size 7x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+2
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-2-5.0-H, 2 pins, pitch 5mm, size 10x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-2-5.0-H pitch 5mm size 10x9mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-3-3.5-H, 3 pins, pitch 3.5mm, size 10.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-3-3.5-H pitch 3.5mm size 10.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-3-5.0-H, 3 pins, pitch 5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-3-5.0-H pitch 5mm size 15x9mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-4-3.5-H, 4 pins, pitch 3.5mm, size 14x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-4-3.5-H pitch 3.5mm size 14x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+4
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-4-5.0-H_1x04_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-4-5.0-H, 4 pins, pitch 5mm, size 20x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-4-5.0-H pitch 5mm size 20x9mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-5-3.5-H_1x05_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-5-3.5-H, 5 pins, pitch 3.5mm, size 17.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-5-3.5-H pitch 3.5mm size 17.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+5
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-5-5.0-H_1x05_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-5-5.0-H, 5 pins, pitch 5mm, size 25x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-5-5.0-H pitch 5mm size 25x9mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-6-3.5-H_1x06_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-6-3.5-H, 6 pins, pitch 3.5mm, size 21x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-6-3.5-H pitch 3.5mm size 21x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+6
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-6-5.0-H_1x06_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-6-5.0-H, 6 pins, pitch 5mm, size 30x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-6-5.0-H pitch 5mm size 30x9mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-7-3.5-H_1x07_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-7-3.5-H, 7 pins, pitch 3.5mm, size 24.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-7-3.5-H pitch 3.5mm size 24.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+7
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-7-5.0-H_1x07_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-7-5.0-H, 7 pins, pitch 5mm, size 35x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-7-5.0-H pitch 5mm size 35x9mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-8-3.5-H_1x08_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-8-3.5-H, 8 pins, pitch 3.5mm, size 28x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-8-3.5-H pitch 3.5mm size 28x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+8
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-8-5.0-H, 8 pins, pitch 5mm, size 40x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-8-5.0-H pitch 5mm size 40x9mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-9-3.5-H_1x09_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-9-3.5-H, 9 pins, pitch 3.5mm, size 31.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-9-3.5-H pitch 3.5mm size 31.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+9
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-9-5.0-H_1x09_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-9-5.0-H, 9 pins, pitch 5mm, size 45x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-9-5.0-H pitch 5mm size 45x9mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-10-3.5-H_1x10_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-10-3.5-H, 10 pins, pitch 3.5mm, size 35x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-10-3.5-H pitch 3.5mm size 35x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+10
+10
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-10-5.0-H_1x10_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-10-5.0-H, 10 pins, pitch 5mm, size 50x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-10-5.0-H pitch 5mm size 50x9mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-11-3.5-H_1x11_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-11-3.5-H, 11 pins, pitch 3.5mm, size 38.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-11-3.5-H pitch 3.5mm size 38.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+11
+11
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-11-5.0-H_1x11_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-11-5.0-H, 11 pins, pitch 5mm, size 55x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-11-5.0-H pitch 5mm size 55x9mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-12-3.5-H_1x12_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-12-3.5-H, 12 pins, pitch 3.5mm, size 42x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-12-3.5-H pitch 3.5mm size 42x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+12
+12
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-12-5.0-H_1x12_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-12-5.0-H, 12 pins, pitch 5mm, size 60x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-12-5.0-H pitch 5mm size 60x9mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-13-3.5-H_1x13_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-13-3.5-H, 13 pins, pitch 3.5mm, size 45.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-13-3.5-H pitch 3.5mm size 45.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+13
+13
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-13-5.0-H_1x13_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-13-5.0-H, 13 pins, pitch 5mm, size 65x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-13-5.0-H pitch 5mm size 65x9mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-14-3.5-H, 14 pins, pitch 3.5mm, size 49x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-14-3.5-H pitch 3.5mm size 49x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+14
+14
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-14-5.0-H_1x14_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-14-5.0-H, 14 pins, pitch 5mm, size 70x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-14-5.0-H pitch 5mm size 70x9mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-15-3.5-H_1x15_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-15-3.5-H, 15 pins, pitch 3.5mm, size 52.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-15-3.5-H pitch 3.5mm size 52.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+15
+15
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-15-5.0-H_1x15_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-15-5.0-H, 15 pins, pitch 5mm, size 75x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-15-5.0-H pitch 5mm size 75x9mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-16-3.5-H_1x16_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-16-3.5-H, 16 pins, pitch 3.5mm, size 56x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-16-3.5-H pitch 3.5mm size 56x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+16
+16
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PT-1,5-16-5.0-H_1x16_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-16-5.0-H, 16 pins, pitch 5mm, size 80x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-16-5.0-H pitch 5mm size 80x9mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 2 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814702/pdf
+PhoenixContact PTSM0.5 2 2.5mm vertical SMD spring clamp terminal block connector 
+0
+4
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-2.5-H-THR_1x02_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-2-2.5-H-THR, 2 pins, pitch 2.5mm, size 7.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-2-2.5-H-THR pitch 2.5mm size 7.2x10mm^2 drill 1.2mm pad 3mm
+0
+4
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-2.5-V-THR_1x02_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-2-2.5-V-THR, vertical (cable from top), 2 pins, pitch 2.5mm, size 5.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-2-2.5-V-THR vertical pitch 2.5mm size 5.5x5mm^2 drill 1.2mm pad 2mm
+0
+4
+2
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 2 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778696/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+4
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-2,5-V-SMD_1x03-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 3 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814715/pdf
+PhoenixContact PTSM0.5 3 2.5mm vertical SMD spring clamp terminal block connector 
+0
+5
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-2.5-H-THR_1x03_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-3-2.5-H-THR, 3 pins, pitch 2.5mm, size 9.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-3-2.5-H-THR pitch 2.5mm size 9.7x10mm^2 drill 1.2mm pad 3mm
+0
+6
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-2.5-V-THR_1x03_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-3-2.5-V-THR, vertical (cable from top), 3 pins, pitch 2.5mm, size 8x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-3-2.5-V-THR vertical pitch 2.5mm size 8x5mm^2 drill 1.2mm pad 2mm
+0
+6
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 3 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778706/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+5
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-2,5-V-SMD_1x04-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 4 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814728/pdf
+PhoenixContact PTSM0.5 4 2.5mm vertical SMD spring clamp terminal block connector 
+0
+6
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-2.5-H-THR_1x04_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-4-2.5-H-THR, 4 pins, pitch 2.5mm, size 12.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-4-2.5-H-THR pitch 2.5mm size 12.2x10mm^2 drill 1.2mm pad 3mm
+0
+8
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-2.5-V-THR_1x04_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-4-2.5-V-THR, vertical (cable from top), 4 pins, pitch 2.5mm, size 10.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-4-2.5-V-THR vertical pitch 2.5mm size 10.5x5mm^2 drill 1.2mm pad 2mm
+0
+8
+4
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-HV-2.5-SMD_1x04-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 4 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778719/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+4
+3
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-2,5-V-SMD_1x05-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 5 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814731/pdf
+PhoenixContact PTSM0.5 5 2.5mm vertical SMD spring clamp terminal block connector 
+0
+7
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-2.5-H-THR_1x05_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-5-2.5-H-THR, 5 pins, pitch 2.5mm, size 14.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-5-2.5-H-THR pitch 2.5mm size 14.7x10mm^2 drill 1.2mm pad 3mm
+0
+10
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-2.5-V-THR_1x05_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-5-2.5-V-THR, vertical (cable from top), 5 pins, pitch 2.5mm, size 13x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-5-2.5-V-THR vertical pitch 2.5mm size 13x5mm^2 drill 1.2mm pad 2mm
+0
+10
+5
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-HV-2.5-SMD_1x05-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 5 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778722/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+7
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-2,5-V-SMD_1x06-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 6 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814744/pdf
+PhoenixContact PTSM0.5 6 2.5mm vertical SMD spring clamp terminal block connector 
+0
+8
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-2.5-H-THR_1x06_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-6-2.5-H-THR, 6 pins, pitch 2.5mm, size 17.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-6-2.5-H-THR pitch 2.5mm size 17.2x10mm^2 drill 1.2mm pad 3mm
+0
+12
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-2.5-V-THR_1x06_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-6-2.5-V-THR, vertical (cable from top), 6 pins, pitch 2.5mm, size 15.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-6-2.5-V-THR vertical pitch 2.5mm size 15.5x5mm^2 drill 1.2mm pad 2mm
+0
+12
+6
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-HV-2.5-SMD_1x06-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 6 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778735/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+8
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-2,5-V-SMD_1x07-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 7 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814757/pdf
+PhoenixContact PTSM0.5 7 2.5mm vertical SMD spring clamp terminal block connector 
+0
+9
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-7-2.5-H-THR, 7 pins, pitch 2.5mm, size 19.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-7-2.5-H-THR pitch 2.5mm size 19.7x10mm^2 drill 1.2mm pad 3mm
+0
+14
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-2.5-V-THR_1x07_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-7-2.5-V-THR, vertical (cable from top), 7 pins, pitch 2.5mm, size 18x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-7-2.5-V-THR vertical pitch 2.5mm size 18x5mm^2 drill 1.2mm pad 2mm
+0
+14
+7
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-HV-2.5-SMD_1x07-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 7 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778748/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+9
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-2,5-V-SMD_1x08-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 8 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814760/pdf
+PhoenixContact PTSM0.5 8 2.5mm vertical SMD spring clamp terminal block connector 
+0
+10
+9
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-2.5-H-THR_1x08_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-8-2.5-H-THR, 8 pins, pitch 2.5mm, size 22.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-8-2.5-H-THR pitch 2.5mm size 22.2x10mm^2 drill 1.2mm pad 3mm
+0
+16
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-2.5-V-THR_1x08_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-8-2.5-V-THR, vertical (cable from top), 8 pins, pitch 2.5mm, size 20.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-8-2.5-V-THR vertical pitch 2.5mm size 20.5x5mm^2 drill 1.2mm pad 2mm
+0
+16
+8
+TerminalBlock_Phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 8 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778751/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+10
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal
+terminal block RND 205-00001, 2 pins, pitch 5mm, size 10x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00001 pitch 5mm size 10x9mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00002_1x03_P5.00mm_Horizontal
+terminal block RND 205-00002, 3 pins, pitch 5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00002 pitch 5mm size 15x9mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00003_1x04_P5.00mm_Horizontal
+terminal block RND 205-00003, 4 pins, pitch 5mm, size 20x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00003 pitch 5mm size 20x9mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00004_1x05_P5.00mm_Horizontal
+terminal block RND 205-00004, 5 pins, pitch 5mm, size 25x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00004 pitch 5mm size 25x9mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00005_1x06_P5.00mm_Horizontal
+terminal block RND 205-00005, 6 pins, pitch 5mm, size 30x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00005 pitch 5mm size 30x9mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00006_1x07_P5.00mm_Horizontal
+terminal block RND 205-00006, 7 pins, pitch 5mm, size 35x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00006 pitch 5mm size 35x9mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00007_1x08_P5.00mm_Horizontal
+terminal block RND 205-00007, 8 pins, pitch 5mm, size 40x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00007 pitch 5mm size 40x9mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00008_1x09_P5.00mm_Horizontal
+terminal block RND 205-00008, 9 pins, pitch 5mm, size 45x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00008 pitch 5mm size 45x9mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00009_1x10_P5.00mm_Horizontal
+terminal block RND 205-00009, 10 pins, pitch 5mm, size 50x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00009 pitch 5mm size 50x9mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00010_1x11_P5.00mm_Horizontal
+terminal block RND 205-00010, 11 pins, pitch 5mm, size 55x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00010 pitch 5mm size 55x9mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00011_1x12_P5.00mm_Horizontal
+terminal block RND 205-00011, 12 pins, pitch 5mm, size 60x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00011 pitch 5mm size 60x9mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00012_1x02_P5.00mm_Horizontal
+terminal block RND 205-00012, 2 pins, pitch 5mm, size 10x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00012 pitch 5mm size 10x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00013_1x03_P5.00mm_Horizontal
+terminal block RND 205-00013, 3 pins, pitch 5mm, size 15x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00013 pitch 5mm size 15x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00014_1x04_P5.00mm_Horizontal
+terminal block RND 205-00014, 4 pins, pitch 5mm, size 20x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00014 pitch 5mm size 20x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00015_1x05_P5.00mm_Horizontal
+terminal block RND 205-00015, 5 pins, pitch 5mm, size 25x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00015 pitch 5mm size 25x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00016_1x06_P5.00mm_Horizontal
+terminal block RND 205-00016, 6 pins, pitch 5mm, size 30x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00016 pitch 5mm size 30x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00017_1x07_P5.00mm_Horizontal
+terminal block RND 205-00017, 7 pins, pitch 5mm, size 35x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00017 pitch 5mm size 35x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00018_1x08_P5.00mm_Horizontal
+terminal block RND 205-00018, 8 pins, pitch 5mm, size 40x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00018 pitch 5mm size 40x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00019_1x09_P5.00mm_Horizontal
+terminal block RND 205-00019, 9 pins, pitch 5mm, size 45x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00019 pitch 5mm size 45x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00020_1x10_P5.00mm_Horizontal
+terminal block RND 205-00020, 10 pins, pitch 5mm, size 50x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00020 pitch 5mm size 50x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00021_1x11_P5.00mm_Horizontal
+terminal block RND 205-00021, 11 pins, pitch 5mm, size 55x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00021 pitch 5mm size 55x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00022_1x12_P5.00mm_Horizontal
+terminal block RND 205-00022, 12 pins, pitch 5mm, size 60x7.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00012_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00022 pitch 5mm size 60x7.6mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00023_1x02_P10.00mm_Horizontal
+terminal block RND 205-00023, 2 pins, pitch 10mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00023 pitch 10mm size 15x9mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00024_1x03_P10.00mm_Horizontal
+terminal block RND 205-00024, 3 pins, pitch 10mm, size 25x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00024 pitch 10mm size 25x9mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00025_1x04_P10.00mm_Horizontal
+terminal block RND 205-00025, 4 pins, pitch 10mm, size 35x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00025 pitch 10mm size 35x9mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00026_1x05_P10.00mm_Horizontal
+terminal block RND 205-00026, 5 pins, pitch 10mm, size 45x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00026 pitch 10mm size 45x9mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00027_1x06_P10.00mm_Horizontal
+terminal block RND 205-00027, 6 pins, pitch 10mm, size 55x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00027 pitch 10mm size 55x9mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00028_1x07_P10.00mm_Horizontal
+terminal block RND 205-00028, 7 pins, pitch 10mm, size 65x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00028 pitch 10mm size 65x9mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00029_1x08_P10.00mm_Horizontal
+terminal block RND 205-00029, 8 pins, pitch 10mm, size 75x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00029 pitch 10mm size 75x9mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00030_1x09_P10.00mm_Horizontal
+terminal block RND 205-00030, 9 pins, pitch 10mm, size 85x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00030 pitch 10mm size 85x9mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00031_1x10_P10.00mm_Horizontal
+terminal block RND 205-00031, 10 pins, pitch 10mm, size 95x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00031 pitch 10mm size 95x9mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00032_1x11_P10.00mm_Horizontal
+terminal block RND 205-00032, 11 pins, pitch 10mm, size 105x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00032 pitch 10mm size 105x9mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00033_1x12_P10.00mm_Horizontal
+terminal block RND 205-00033, 12 pins, pitch 10mm, size 115x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00033 pitch 10mm size 115x9mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00045_1x02_P5.00mm_Horizontal
+terminal block RND 205-00045, 2 pins, pitch 5mm, size 10x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00045 pitch 5mm size 10x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00046_1x03_P5.00mm_Horizontal
+terminal block RND 205-00046, 3 pins, pitch 5mm, size 15x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00046 pitch 5mm size 15x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00047_1x04_P5.00mm_Horizontal
+terminal block RND 205-00047, 4 pins, pitch 5mm, size 20x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00047 pitch 5mm size 20x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00048_1x05_P5.00mm_Horizontal
+terminal block RND 205-00048, 5 pins, pitch 5mm, size 25x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00048 pitch 5mm size 25x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00049_1x06_P5.00mm_Horizontal
+terminal block RND 205-00049, 6 pins, pitch 5mm, size 30x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00049 pitch 5mm size 30x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00050_1x07_P5.00mm_Horizontal
+terminal block RND 205-00050, 7 pins, pitch 5mm, size 35x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00050 pitch 5mm size 35x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00051_1x08_P5.00mm_Horizontal
+terminal block RND 205-00051, 8 pins, pitch 5mm, size 40x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00051 pitch 5mm size 40x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00052_1x09_P5.00mm_Horizontal
+terminal block RND 205-00052, 9 pins, pitch 5mm, size 45x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00052 pitch 5mm size 45x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00053_1x10_P5.00mm_Horizontal
+terminal block RND 205-00053, 10 pins, pitch 5mm, size 50x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00053 pitch 5mm size 50x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00054_1x11_P5.00mm_Horizontal
+terminal block RND 205-00054, 11 pins, pitch 5mm, size 55x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00054 pitch 5mm size 55x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00055_1x12_P5.00mm_Horizontal
+terminal block RND 205-00055, 12 pins, pitch 5mm, size 60x8.1mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00045_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00055 pitch 5mm size 60x8.1mm^2 drill 1.1mm pad 2.1mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00056_1x02_P5.00mm_45Degree
+terminal block RND 205-00056, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 10x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00056 45Degree pitch 5mm size 10x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00057_1x03_P5.00mm_45Degree
+terminal block RND 205-00057, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 15x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00057 45Degree pitch 5mm size 15x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00058_1x04_P5.00mm_45Degree
+terminal block RND 205-00058, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 20x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00058 45Degree pitch 5mm size 20x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00059_1x05_P5.00mm_45Degree
+terminal block RND 205-00059, 45Degree (cable under 45degree), 5 pins, pitch 5mm, size 25x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00059 45Degree pitch 5mm size 25x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00060_1x06_P5.00mm_45Degree
+terminal block RND 205-00060, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 30x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00060 45Degree pitch 5mm size 30x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00061_1x07_P5.00mm_45Degree
+terminal block RND 205-00061, 45Degree (cable under 45degree), 7 pins, pitch 5mm, size 35x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00061 45Degree pitch 5mm size 35x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00062_1x08_P5.00mm_45Degree
+terminal block RND 205-00062, 45Degree (cable under 45degree), 8 pins, pitch 5mm, size 40x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00062 45Degree pitch 5mm size 40x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00063_1x09_P5.00mm_45Degree
+terminal block RND 205-00063, 45Degree (cable under 45degree), 9 pins, pitch 5mm, size 45x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00063 45Degree pitch 5mm size 45x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00064_1x10_P5.00mm_45Degree
+terminal block RND 205-00064, 45Degree (cable under 45degree), 10 pins, pitch 5mm, size 50x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00064 45Degree pitch 5mm size 50x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00065_1x11_P5.00mm_45Degree
+terminal block RND 205-00065, 45Degree (cable under 45degree), 11 pins, pitch 5mm, size 55x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00065 45Degree pitch 5mm size 55x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00066_1x12_P5.00mm_45Degree
+terminal block RND 205-00066, 45Degree (cable under 45degree), 12 pins, pitch 5mm, size 60x12.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00056_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00066 45Degree pitch 5mm size 60x12.6mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00067_1x02_P7.50mm_Horizontal
+terminal block RND 205-00067, 2 pins, pitch 7.5mm, size 15x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00067 pitch 7.5mm size 15x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00068_1x03_P7.50mm_Horizontal
+terminal block RND 205-00068, 3 pins, pitch 7.5mm, size 22.5x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00068 pitch 7.5mm size 22.5x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00069_1x04_P7.50mm_Horizontal
+terminal block RND 205-00069, 4 pins, pitch 7.5mm, size 30x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00069 pitch 7.5mm size 30x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00070_1x05_P7.50mm_Horizontal
+terminal block RND 205-00070, 5 pins, pitch 7.5mm, size 37.5x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00070 pitch 7.5mm size 37.5x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00071_1x06_P7.50mm_Horizontal
+terminal block RND 205-00071, 6 pins, pitch 7.5mm, size 45x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00071 pitch 7.5mm size 45x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00072_1x07_P7.50mm_Horizontal
+terminal block RND 205-00072, 7 pins, pitch 7.5mm, size 52.5x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00072 pitch 7.5mm size 52.5x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00073_1x08_P7.50mm_Horizontal
+terminal block RND 205-00073, 8 pins, pitch 7.5mm, size 60x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00073 pitch 7.5mm size 60x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00074_1x09_P7.50mm_Horizontal
+terminal block RND 205-00074, 9 pins, pitch 7.5mm, size 67.5x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00074 pitch 7.5mm size 67.5x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00075_1x10_P7.50mm_Horizontal
+terminal block RND 205-00075, 10 pins, pitch 7.5mm, size 75x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00075 pitch 7.5mm size 75x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00076_1x11_P7.50mm_Horizontal
+terminal block RND 205-00076, 11 pins, pitch 7.5mm, size 82.5x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00076 pitch 7.5mm size 82.5x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00077_1x12_P7.50mm_Horizontal
+terminal block RND 205-00077, 12 pins, pitch 7.5mm, size 90x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00067_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00077 pitch 7.5mm size 90x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00078_1x02_P10.00mm_Horizontal
+terminal block RND 205-00078, 2 pins, pitch 10mm, size 15x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00078 pitch 10mm size 15x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00079_1x03_P10.00mm_Horizontal
+terminal block RND 205-00079, 3 pins, pitch 10mm, size 25x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00079 pitch 10mm size 25x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00080_1x04_P10.00mm_Horizontal
+terminal block RND 205-00080, 4 pins, pitch 10mm, size 35x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00080 pitch 10mm size 35x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00081_1x05_P10.00mm_Horizontal
+terminal block RND 205-00081, 5 pins, pitch 10mm, size 45x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00081 pitch 10mm size 45x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00082_1x06_P10.00mm_Horizontal
+terminal block RND 205-00082, 6 pins, pitch 10mm, size 55x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00082 pitch 10mm size 55x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00083_1x07_P10.00mm_Horizontal
+terminal block RND 205-00083, 7 pins, pitch 10mm, size 65x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00083 pitch 10mm size 65x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00084_1x08_P10.00mm_Horizontal
+terminal block RND 205-00084, 8 pins, pitch 10mm, size 75x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00084 pitch 10mm size 75x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00085_1x09_P10.00mm_Horizontal
+terminal block RND 205-00085, 9 pins, pitch 10mm, size 85x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00085 pitch 10mm size 85x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00086_1x10_P10.00mm_Horizontal
+terminal block RND 205-00086, 10 pins, pitch 10mm, size 95x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00086 pitch 10mm size 95x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00087_1x11_P10.00mm_Horizontal
+terminal block RND 205-00087, 11 pins, pitch 10mm, size 105x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00087 pitch 10mm size 105x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00088_1x12_P10.00mm_Horizontal
+terminal block RND 205-00088, 12 pins, pitch 10mm, size 115x10.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00078_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00088 pitch 10mm size 115x10.3mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal
+terminal block RND 205-00232, 2 pins, pitch 5.08mm, size 10.2x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00232 pitch 5.08mm size 10.2x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00233_1x03_P5.08mm_Horizontal
+terminal block RND 205-00233, 3 pins, pitch 5.08mm, size 15.2x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00233 pitch 5.08mm size 15.2x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00234_1x04_P5.08mm_Horizontal
+terminal block RND 205-00234, 4 pins, pitch 5.08mm, size 20.3x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00234 pitch 5.08mm size 20.3x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00235_1x05_P5.08mm_Horizontal
+terminal block RND 205-00235, 5 pins, pitch 5.08mm, size 25.4x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00235 pitch 5.08mm size 25.4x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00236_1x06_P5.08mm_Horizontal
+terminal block RND 205-00236, 6 pins, pitch 5.08mm, size 30.5x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00236 pitch 5.08mm size 30.5x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00237_1x07_P5.08mm_Horizontal
+terminal block RND 205-00237, 7 pins, pitch 5.08mm, size 35.6x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00237 pitch 5.08mm size 35.6x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00238_1x08_P5.08mm_Horizontal
+terminal block RND 205-00238, 8 pins, pitch 5.08mm, size 40.6x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00238 pitch 5.08mm size 40.6x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00239_1x09_P5.08mm_Horizontal
+terminal block RND 205-00239, 9 pins, pitch 5.08mm, size 45.7x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00239 pitch 5.08mm size 45.7x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00240_1x10_P5.08mm_Horizontal
+terminal block RND 205-00240, 10 pins, pitch 5.08mm, size 50.8x8.45mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00232_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00240 pitch 5.08mm size 50.8x8.45mm^2 drill 1.1mm pad 2.1mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00241_1x02_P10.16mm_Horizontal
+terminal block RND 205-00241, 2 pins, pitch 10.2mm, size 15.2x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00241 pitch 10.2mm size 15.2x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00242_1x03_P10.16mm_Horizontal
+terminal block RND 205-00242, 3 pins, pitch 10.2mm, size 25.4x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00242 pitch 10.2mm size 25.4x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00243_1x04_P10.16mm_Horizontal
+terminal block RND 205-00243, 4 pins, pitch 10.2mm, size 35.6x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00243 pitch 10.2mm size 35.6x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00244_1x05_P10.16mm_Horizontal
+terminal block RND 205-00244, 5 pins, pitch 10.2mm, size 45.7x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00244 pitch 10.2mm size 45.7x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00245_1x06_P10.16mm_Horizontal
+terminal block RND 205-00245, 6 pins, pitch 10.2mm, size 55.9x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00245 pitch 10.2mm size 55.9x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00246_1x07_P10.16mm_Horizontal
+terminal block RND 205-00246, 7 pins, pitch 10.2mm, size 66x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00246 pitch 10.2mm size 66x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00247_1x08_P10.16mm_Horizontal
+terminal block RND 205-00247, 8 pins, pitch 10.2mm, size 76.2x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00247 pitch 10.2mm size 76.2x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00248_1x09_P10.16mm_Horizontal
+terminal block RND 205-00248, 9 pins, pitch 10.2mm, size 86.4x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00248 pitch 10.2mm size 86.4x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00249_1x10_P10.16mm_Horizontal
+terminal block RND 205-00249, 10 pins, pitch 10.2mm, size 96.5x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00249 pitch 10.2mm size 96.5x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00250_1x11_P10.16mm_Horizontal
+terminal block RND 205-00250, 11 pins, pitch 10.2mm, size 107x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00250 pitch 10.2mm size 107x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00251_1x12_P10.16mm_Horizontal
+terminal block RND 205-00251, 12 pins, pitch 10.2mm, size 117x8.3mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00023_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00251 pitch 10.2mm size 117x8.3mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00276_1x02_P5.00mm_Vertical
+terminal block RND 205-00078, vertical (cable from top), 2 pins, pitch 5mm, size 10x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00078 vertical pitch 5mm size 10x10mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00277_1x03_P5.00mm_Vertical
+terminal block RND 205-00079, vertical (cable from top), 3 pins, pitch 5mm, size 15x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00079 vertical pitch 5mm size 15x10mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00278_1x04_P5.00mm_Vertical
+terminal block RND 205-00080, vertical (cable from top), 4 pins, pitch 5mm, size 20x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00080 vertical pitch 5mm size 20x10mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00279_1x05_P5.00mm_Vertical
+terminal block RND 205-00081, vertical (cable from top), 5 pins, pitch 5mm, size 25x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00081 vertical pitch 5mm size 25x10mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00280_1x06_P5.00mm_Vertical
+terminal block RND 205-00082, vertical (cable from top), 6 pins, pitch 5mm, size 30x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00082 vertical pitch 5mm size 30x10mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00281_1x07_P5.00mm_Vertical
+terminal block RND 205-00083, vertical (cable from top), 7 pins, pitch 5mm, size 35x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00083 vertical pitch 5mm size 35x10mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00282_1x08_P5.00mm_Vertical
+terminal block RND 205-00084, vertical (cable from top), 8 pins, pitch 5mm, size 40x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00084 vertical pitch 5mm size 40x10mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00283_1x09_P5.00mm_Vertical
+terminal block RND 205-00085, vertical (cable from top), 9 pins, pitch 5mm, size 45x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00085 vertical pitch 5mm size 45x10mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00284_1x10_P5.00mm_Vertical
+terminal block RND 205-00086, vertical (cable from top), 10 pins, pitch 5mm, size 50x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00086 vertical pitch 5mm size 50x10mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00285_1x11_P5.00mm_Vertical
+terminal block RND 205-00087, vertical (cable from top), 11 pins, pitch 5mm, size 55x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00087 vertical pitch 5mm size 55x10mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00286_1x12_P5.00mm_Vertical
+terminal block RND 205-00088, vertical (cable from top), 12 pins, pitch 5mm, size 60x10mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00276_DB_EN.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00088 vertical pitch 5mm size 60x10mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal
+terminal block RND 205-00287, 2 pins, pitch 5.08mm, size 10.2x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00287 pitch 5.08mm size 10.2x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00288_1x03_P5.08mm_Horizontal
+terminal block RND 205-00288, 3 pins, pitch 5.08mm, size 15.2x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00288 pitch 5.08mm size 15.2x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00289_1x04_P5.08mm_Horizontal
+terminal block RND 205-00289, 4 pins, pitch 5.08mm, size 20.3x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00289 pitch 5.08mm size 20.3x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00290_1x05_P5.08mm_Horizontal
+terminal block RND 205-00290, 5 pins, pitch 5.08mm, size 25.4x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00290 pitch 5.08mm size 25.4x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00291_1x06_P5.08mm_Horizontal
+terminal block RND 205-00291, 6 pins, pitch 5.08mm, size 30.5x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00291 pitch 5.08mm size 30.5x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00292_1x07_P5.08mm_Horizontal
+terminal block RND 205-00292, 7 pins, pitch 5.08mm, size 35.6x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00292 pitch 5.08mm size 35.6x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00293_1x08_P5.08mm_Horizontal
+terminal block RND 205-00293, 8 pins, pitch 5.08mm, size 40.6x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00293 pitch 5.08mm size 40.6x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00294_1x09_P5.08mm_Horizontal
+terminal block RND 205-00294, 9 pins, pitch 5.08mm, size 45.7x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00294 pitch 5.08mm size 45.7x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00295_1x10_P5.08mm_Horizontal
+terminal block RND 205-00295, 10 pins, pitch 5.08mm, size 50.8x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00295 pitch 5.08mm size 50.8x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00296_1x11_P5.08mm_Horizontal
+terminal block RND 205-00296, 11 pins, pitch 5.08mm, size 55.9x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00296 pitch 5.08mm size 55.9x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00297_1x12_P5.08mm_Horizontal
+terminal block RND 205-00297, 12 pins, pitch 5.08mm, size 61x10.6mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00287_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00297 pitch 5.08mm size 61x10.6mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_RND
+TerminalBlock_RND_205-00298_1x02_P10.00mm_Horizontal
+terminal block RND 205-00298, 2 pins, pitch 10mm, size 15x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00298 pitch 10mm size 15x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+2
+2
+TerminalBlock_RND
+TerminalBlock_RND_205-00299_1x03_P10.00mm_Horizontal
+terminal block RND 205-00299, 3 pins, pitch 10mm, size 25x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00299 pitch 10mm size 25x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+3
+3
+TerminalBlock_RND
+TerminalBlock_RND_205-00300_1x04_P10.00mm_Horizontal
+terminal block RND 205-00300, 4 pins, pitch 10mm, size 35x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00300 pitch 10mm size 35x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+4
+4
+TerminalBlock_RND
+TerminalBlock_RND_205-00301_1x05_P10.00mm_Horizontal
+terminal block RND 205-00301, 5 pins, pitch 10mm, size 45x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00301 pitch 10mm size 45x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+5
+5
+TerminalBlock_RND
+TerminalBlock_RND_205-00302_1x06_P10.00mm_Horizontal
+terminal block RND 205-00302, 6 pins, pitch 10mm, size 55x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00302 pitch 10mm size 55x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+6
+6
+TerminalBlock_RND
+TerminalBlock_RND_205-00303_1x07_P10.00mm_Horizontal
+terminal block RND 205-00303, 7 pins, pitch 10mm, size 65x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00303 pitch 10mm size 65x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+7
+7
+TerminalBlock_RND
+TerminalBlock_RND_205-00304_1x08_P10.00mm_Horizontal
+terminal block RND 205-00304, 8 pins, pitch 10mm, size 75x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00304 pitch 10mm size 75x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+8
+8
+TerminalBlock_RND
+TerminalBlock_RND_205-00305_1x09_P10.00mm_Horizontal
+terminal block RND 205-00305, 9 pins, pitch 10mm, size 85x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00305 pitch 10mm size 85x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+9
+9
+TerminalBlock_RND
+TerminalBlock_RND_205-00306_1x10_P10.00mm_Horizontal
+terminal block RND 205-00306, 10 pins, pitch 10mm, size 95x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00306 pitch 10mm size 95x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+10
+10
+TerminalBlock_RND
+TerminalBlock_RND_205-00307_1x11_P10.00mm_Horizontal
+terminal block RND 205-00307, 11 pins, pitch 10mm, size 105x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00307 pitch 10mm size 105x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+11
+11
+TerminalBlock_RND
+TerminalBlock_RND_205-00308_1x12_P10.00mm_Horizontal
+terminal block RND 205-00308, 12 pins, pitch 10mm, size 115x8.1mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00298_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00308 pitch 10mm size 115x8.1mm^2 drill 1.3mm pad 2.5mm
+0
+12
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-101_1x01_P5.00mm_45Degree
+Terminal Block WAGO 236-101, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 6.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-101 45Degree pitch 5mm size 6.5x14mm^2 drill 1mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-102_1x02_P5.00mm_45Degree
+Terminal Block WAGO 236-102, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 11.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-102 45Degree pitch 5mm size 11.5x14mm^2 drill 1mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-103_1x03_P5.00mm_45Degree
+Terminal Block WAGO 236-103, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 16.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-103 45Degree pitch 5mm size 16.5x14mm^2 drill 1mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-104_1x04_P5.00mm_45Degree
+Terminal Block WAGO 236-104, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 21.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-104 45Degree pitch 5mm size 21.5x14mm^2 drill 1mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-105_1x05_P5.00mm_45Degree
+Terminal Block WAGO 236-105, 45Degree (cable under 45degree), 5 pins, pitch 5mm, size 26.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-105 45Degree pitch 5mm size 26.5x14mm^2 drill 1mm pad 3mm
+0
+10
+5
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-106_1x06_P5.00mm_45Degree
+Terminal Block WAGO 236-106, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 31.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-106 45Degree pitch 5mm size 31.5x14mm^2 drill 1mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-107_1x07_P5.00mm_45Degree
+Terminal Block WAGO 236-107, 45Degree (cable under 45degree), 7 pins, pitch 5mm, size 36.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-107 45Degree pitch 5mm size 36.5x14mm^2 drill 1mm pad 3mm
+0
+14
+7
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-108_1x08_P5.00mm_45Degree
+Terminal Block WAGO 236-108, 45Degree (cable under 45degree), 8 pins, pitch 5mm, size 41.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-108 45Degree pitch 5mm size 41.5x14mm^2 drill 1mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-109_1x09_P5.00mm_45Degree
+Terminal Block WAGO 236-109, 45Degree (cable under 45degree), 9 pins, pitch 5mm, size 46.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-109 45Degree pitch 5mm size 46.5x14mm^2 drill 1mm pad 3mm
+0
+18
+9
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-110_1x10_P5.00mm_45Degree
+Terminal Block WAGO 236-110, 45Degree (cable under 45degree), 10 pins, pitch 5mm, size 51.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-110 45Degree pitch 5mm size 51.5x14mm^2 drill 1mm pad 3mm
+0
+20
+10
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-112_1x12_P5.00mm_45Degree
+Terminal Block WAGO 236-112, 45Degree (cable under 45degree), 12 pins, pitch 5mm, size 61.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-112 45Degree pitch 5mm size 61.5x14mm^2 drill 1mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-116_1x16_P5.00mm_45Degree
+Terminal Block WAGO 236-116, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 81.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-116 45Degree pitch 5mm size 81.5x14mm^2 drill 1mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-124_1x24_P5.00mm_45Degree
+Terminal Block WAGO 236-124, 45Degree (cable under 45degree), 24 pins, pitch 5mm, size 122x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-124 45Degree pitch 5mm size 122x14mm^2 drill 1mm pad 3mm
+0
+48
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-201_1x01_P7.50mm_45Degree
+Terminal Block WAGO 236-201, 45Degree (cable under 45degree), 1 pins, pitch 7.5mm, size 9x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-201 45Degree pitch 7.5mm size 9x14mm^2 drill 1mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-202_1x02_P7.50mm_45Degree
+Terminal Block WAGO 236-202, 45Degree (cable under 45degree), 2 pins, pitch 7.5mm, size 16.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-202 45Degree pitch 7.5mm size 16.5x14mm^2 drill 1mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-203_1x03_P7.50mm_45Degree
+Terminal Block WAGO 236-203, 45Degree (cable under 45degree), 3 pins, pitch 7.5mm, size 24x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-203 45Degree pitch 7.5mm size 24x14mm^2 drill 1mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-204_1x04_P7.50mm_45Degree
+Terminal Block WAGO 236-204, 45Degree (cable under 45degree), 4 pins, pitch 7.5mm, size 31.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-204 45Degree pitch 7.5mm size 31.5x14mm^2 drill 1mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-205_1x05_P7.50mm_45Degree
+Terminal Block WAGO 236-205, 45Degree (cable under 45degree), 5 pins, pitch 7.5mm, size 39x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-205 45Degree pitch 7.5mm size 39x14mm^2 drill 1mm pad 3mm
+0
+10
+5
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-206_1x06_P7.50mm_45Degree
+Terminal Block WAGO 236-206, 45Degree (cable under 45degree), 6 pins, pitch 7.5mm, size 46.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-206 45Degree pitch 7.5mm size 46.5x14mm^2 drill 1mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-207_1x07_P7.50mm_45Degree
+Terminal Block WAGO 236-207, 45Degree (cable under 45degree), 7 pins, pitch 7.5mm, size 54x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-207 45Degree pitch 7.5mm size 54x14mm^2 drill 1mm pad 3mm
+0
+14
+7
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-208_1x08_P7.50mm_45Degree
+Terminal Block WAGO 236-208, 45Degree (cable under 45degree), 8 pins, pitch 7.5mm, size 61.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-208 45Degree pitch 7.5mm size 61.5x14mm^2 drill 1mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-209_1x09_P7.50mm_45Degree
+Terminal Block WAGO 236-209, 45Degree (cable under 45degree), 9 pins, pitch 7.5mm, size 69x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-209 45Degree pitch 7.5mm size 69x14mm^2 drill 1mm pad 3mm
+0
+18
+9
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-210_1x10_P7.50mm_45Degree
+Terminal Block WAGO 236-210, 45Degree (cable under 45degree), 10 pins, pitch 7.5mm, size 76.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-210 45Degree pitch 7.5mm size 76.5x14mm^2 drill 1mm pad 3mm
+0
+20
+10
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-212_1x12_P7.50mm_45Degree
+Terminal Block WAGO 236-212, 45Degree (cable under 45degree), 12 pins, pitch 7.5mm, size 91.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-212 45Degree pitch 7.5mm size 91.5x14mm^2 drill 1mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-216_1x16_P7.50mm_45Degree
+Terminal Block WAGO 236-216, 45Degree (cable under 45degree), 16 pins, pitch 7.5mm, size 122x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-216 45Degree pitch 7.5mm size 122x14mm^2 drill 1mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-224_1x24_P7.50mm_45Degree
+Terminal Block WAGO 236-224, 45Degree (cable under 45degree), 24 pins, pitch 7.5mm, size 182x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-224 45Degree pitch 7.5mm size 182x14mm^2 drill 1mm pad 3mm
+0
+48
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-301_1x01_P10.00mm_45Degree
+Terminal Block WAGO 236-301, 45Degree (cable under 45degree), 1 pins, pitch 10mm, size 11.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-301 45Degree pitch 10mm size 11.5x14mm^2 drill 1mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-302_1x02_P10.00mm_45Degree
+Terminal Block WAGO 236-302, 45Degree (cable under 45degree), 2 pins, pitch 10mm, size 21.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-302 45Degree pitch 10mm size 21.5x14mm^2 drill 1mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-303_1x03_P10.00mm_45Degree
+Terminal Block WAGO 236-303, 45Degree (cable under 45degree), 3 pins, pitch 10mm, size 31.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-303 45Degree pitch 10mm size 31.5x14mm^2 drill 1mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-304_1x04_P10.00mm_45Degree
+Terminal Block WAGO 236-304, 45Degree (cable under 45degree), 4 pins, pitch 10mm, size 41.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-304 45Degree pitch 10mm size 41.5x14mm^2 drill 1mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-305_1x05_P10.00mm_45Degree
+Terminal Block WAGO 236-305, 45Degree (cable under 45degree), 5 pins, pitch 10mm, size 51.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-305 45Degree pitch 10mm size 51.5x14mm^2 drill 1mm pad 3mm
+0
+10
+5
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-306_1x06_P10.00mm_45Degree
+Terminal Block WAGO 236-306, 45Degree (cable under 45degree), 6 pins, pitch 10mm, size 61.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-306 45Degree pitch 10mm size 61.5x14mm^2 drill 1mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-307_1x07_P10.00mm_45Degree
+Terminal Block WAGO 236-307, 45Degree (cable under 45degree), 7 pins, pitch 10mm, size 71.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-307 45Degree pitch 10mm size 71.5x14mm^2 drill 1mm pad 3mm
+0
+14
+7
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-308_1x08_P10.00mm_45Degree
+Terminal Block WAGO 236-308, 45Degree (cable under 45degree), 8 pins, pitch 10mm, size 81.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-308 45Degree pitch 10mm size 81.5x14mm^2 drill 1mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-309_1x09_P10.00mm_45Degree
+Terminal Block WAGO 236-309, 45Degree (cable under 45degree), 9 pins, pitch 10mm, size 91.5x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-309 45Degree pitch 10mm size 91.5x14mm^2 drill 1mm pad 3mm
+0
+18
+9
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-310_1x10_P10.00mm_45Degree
+Terminal Block WAGO 236-310, 45Degree (cable under 45degree), 10 pins, pitch 10mm, size 102x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-310 45Degree pitch 10mm size 102x14mm^2 drill 1mm pad 3mm
+0
+20
+10
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-312_1x12_P10.00mm_45Degree
+Terminal Block WAGO 236-312, 45Degree (cable under 45degree), 12 pins, pitch 10mm, size 122x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-312 45Degree pitch 10mm size 122x14mm^2 drill 1mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-316_1x16_P10.00mm_45Degree
+Terminal Block WAGO 236-316, 45Degree (cable under 45degree), 16 pins, pitch 10mm, size 162x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-316 45Degree pitch 10mm size 162x14mm^2 drill 1mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_236-324_1x24_P10.00mm_45Degree
+Terminal Block WAGO 236-324, 45Degree (cable under 45degree), 24 pins, pitch 10mm, size 242x14mm^2, drill diamater 1mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 236-324 45Degree pitch 10mm size 242x14mm^2 drill 1mm pad 3mm
+0
+48
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-101_1x01_P5.00mm_45Degree
+Terminal Block WAGO 804-101, 45Degree (cable under 45degree), 1 pins, pitch 5mm, size 6.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-101 45Degree pitch 5mm size 6.5x15mm^2 drill 1.2mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-102_1x02_P5.00mm_45Degree
+Terminal Block WAGO 804-102, 45Degree (cable under 45degree), 2 pins, pitch 5mm, size 11.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-102 45Degree pitch 5mm size 11.5x15mm^2 drill 1.2mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-103_1x03_P5.00mm_45Degree
+Terminal Block WAGO 804-103, 45Degree (cable under 45degree), 3 pins, pitch 5mm, size 16.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-103 45Degree pitch 5mm size 16.5x15mm^2 drill 1.2mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-104_1x04_P5.00mm_45Degree
+Terminal Block WAGO 804-104, 45Degree (cable under 45degree), 4 pins, pitch 5mm, size 21.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-104 45Degree pitch 5mm size 21.5x15mm^2 drill 1.2mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-105_1x05_P5.00mm_45Degree
+Terminal Block WAGO 804-105, 45Degree (cable under 45degree), 5 pins, pitch 5mm, size 26.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-105 45Degree pitch 5mm size 26.5x15mm^2 drill 1.2mm pad 3mm
+0
+10
+5
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-106_1x06_P5.00mm_45Degree
+Terminal Block WAGO 804-106, 45Degree (cable under 45degree), 6 pins, pitch 5mm, size 31.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-106 45Degree pitch 5mm size 31.5x15mm^2 drill 1.2mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-107_1x07_P5.00mm_45Degree
+Terminal Block WAGO 804-107, 45Degree (cable under 45degree), 7 pins, pitch 5mm, size 36.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-107 45Degree pitch 5mm size 36.5x15mm^2 drill 1.2mm pad 3mm
+0
+14
+7
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-108_1x08_P5.00mm_45Degree
+Terminal Block WAGO 804-108, 45Degree (cable under 45degree), 8 pins, pitch 5mm, size 41.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-108 45Degree pitch 5mm size 41.5x15mm^2 drill 1.2mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-109_1x09_P5.00mm_45Degree
+Terminal Block WAGO 804-109, 45Degree (cable under 45degree), 9 pins, pitch 5mm, size 46.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-109 45Degree pitch 5mm size 46.5x15mm^2 drill 1.2mm pad 3mm
+0
+18
+9
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-110_1x10_P5.00mm_45Degree
+Terminal Block WAGO 804-110, 45Degree (cable under 45degree), 10 pins, pitch 5mm, size 51.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-110 45Degree pitch 5mm size 51.5x15mm^2 drill 1.2mm pad 3mm
+0
+20
+10
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-112_1x12_P5.00mm_45Degree
+Terminal Block WAGO 804-112, 45Degree (cable under 45degree), 12 pins, pitch 5mm, size 61.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-112 45Degree pitch 5mm size 61.5x15mm^2 drill 1.2mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-116_1x16_P5.00mm_45Degree
+Terminal Block WAGO 804-116, 45Degree (cable under 45degree), 16 pins, pitch 5mm, size 81.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-116 45Degree pitch 5mm size 81.5x15mm^2 drill 1.2mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-124_1x24_P5.00mm_45Degree
+Terminal Block WAGO 804-124, 45Degree (cable under 45degree), 24 pins, pitch 5mm, size 122x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-124 45Degree pitch 5mm size 122x15mm^2 drill 1.2mm pad 3mm
+0
+48
+24
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-301_1x01_P7.50mm_45Degree
+Terminal Block WAGO 804-301, 45Degree (cable under 45degree), 1 pins, pitch 7.5mm, size 6.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-301 45Degree pitch 7.5mm size 6.5x15mm^2 drill 1.2mm pad 3mm
+0
+2
+1
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-302_1x02_P7.50mm_45Degree
+Terminal Block WAGO 804-302, 45Degree (cable under 45degree), 2 pins, pitch 7.5mm, size 14x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-302 45Degree pitch 7.5mm size 14x15mm^2 drill 1.2mm pad 3mm
+0
+4
+2
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-303_1x03_P7.50mm_45Degree
+Terminal Block WAGO 804-303, 45Degree (cable under 45degree), 3 pins, pitch 7.5mm, size 21.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-303 45Degree pitch 7.5mm size 21.5x15mm^2 drill 1.2mm pad 3mm
+0
+6
+3
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-304_1x04_P7.50mm_45Degree
+Terminal Block WAGO 804-304, 45Degree (cable under 45degree), 4 pins, pitch 7.5mm, size 29x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-304 45Degree pitch 7.5mm size 29x15mm^2 drill 1.2mm pad 3mm
+0
+8
+4
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-305_1x05_P7.50mm_45Degree
+Terminal Block WAGO 804-305, 45Degree (cable under 45degree), 5 pins, pitch 7.5mm, size 36.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-305 45Degree pitch 7.5mm size 36.5x15mm^2 drill 1.2mm pad 3mm
+0
+10
+5
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-306_1x06_P7.50mm_45Degree
+Terminal Block WAGO 804-306, 45Degree (cable under 45degree), 6 pins, pitch 7.5mm, size 44x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-306 45Degree pitch 7.5mm size 44x15mm^2 drill 1.2mm pad 3mm
+0
+12
+6
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-307_1x07_P7.50mm_45Degree
+Terminal Block WAGO 804-307, 45Degree (cable under 45degree), 7 pins, pitch 7.5mm, size 51.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-307 45Degree pitch 7.5mm size 51.5x15mm^2 drill 1.2mm pad 3mm
+0
+14
+7
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-308_1x08_P7.50mm_45Degree
+Terminal Block WAGO 804-308, 45Degree (cable under 45degree), 8 pins, pitch 7.5mm, size 59x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-308 45Degree pitch 7.5mm size 59x15mm^2 drill 1.2mm pad 3mm
+0
+16
+8
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-309_1x09_P7.50mm_45Degree
+Terminal Block WAGO 804-309, 45Degree (cable under 45degree), 9 pins, pitch 7.5mm, size 66.5x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-309 45Degree pitch 7.5mm size 66.5x15mm^2 drill 1.2mm pad 3mm
+0
+18
+9
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-310_1x10_P7.50mm_45Degree
+Terminal Block WAGO 804-310, 45Degree (cable under 45degree), 10 pins, pitch 7.5mm, size 74x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-310 45Degree pitch 7.5mm size 74x15mm^2 drill 1.2mm pad 3mm
+0
+20
+10
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-312_1x12_P7.50mm_45Degree
+Terminal Block WAGO 804-312, 45Degree (cable under 45degree), 12 pins, pitch 7.5mm, size 89x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-312 45Degree pitch 7.5mm size 89x15mm^2 drill 1.2mm pad 3mm
+0
+24
+12
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-316_1x16_P7.50mm_45Degree
+Terminal Block WAGO 804-316, 45Degree (cable under 45degree), 16 pins, pitch 7.5mm, size 119x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-316 45Degree pitch 7.5mm size 119x15mm^2 drill 1.2mm pad 3mm
+0
+32
+16
+TerminalBlock_WAGO
+TerminalBlock_WAGO_804-324_1x24_P7.50mm_45Degree
+Terminal Block WAGO 804-324, 45Degree (cable under 45degree), 24 pins, pitch 7.5mm, size 179x15mm^2, drill diamater 1.2mm, pad diameter 3mm, see , script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_WAGO
+THT Terminal Block WAGO 804-324 45Degree pitch 7.5mm size 179x15mm^2 drill 1.2mm pad 3mm
+0
+48
+24
